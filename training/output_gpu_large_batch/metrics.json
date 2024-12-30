@@ -1,0 +1,2 @@
+{"iteration": 2, "num_pos_anchors": 32.875}
+{"data_time": 3.3068418499999996, "iteration": 1, "loss_box_reg": 0.8748300969600677, "loss_cls": 3.479211688041687, "lr": 1.199e-06, "rank_data_time": 3.3068418499999996, "total_loss": 4.354041785001755, "total_val_loss": 3.914751797914505, "val_loss_box_reg": 0.6252517998218536, "val_loss_cls": 3.2894999980926514}
